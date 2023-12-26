@@ -53,7 +53,7 @@ const App = () => {
         }}
      
       />
-      <p>Apreta las flechitas para moverte y click para emotiza insana:0</p>
+      <p>Apreta las flechitas para moverte y click en la foto de rommel para emotiza insana:0</p>
       </div>
 
     </div>
